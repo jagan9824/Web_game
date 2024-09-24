@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+.heading {
+    color: rgb(11, 21, 167);
+    font-style: oblique;
+}
+
+.my-button {
+    height: 70px;
+    width: 70px;
+    margin: 10px;
+    color: rgb(4, 68, 23);
+    border-radius: 30px;
+    border: 0.5px solid black;
+    background-color: rgb(127, 247, 127);
+    cursor: pointer;
+}
+
+.my-image {
+    height: 50px;
+    width: 50px;
+}
